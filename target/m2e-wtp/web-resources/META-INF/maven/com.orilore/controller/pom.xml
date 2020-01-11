@@ -155,6 +155,11 @@
 			<version>3.2.3.RELEASE</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<version>3.2.3.RELEASE</version>
+		</dependency>
 	</dependencies>
     <build>
         <plugins>
