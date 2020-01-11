@@ -9,7 +9,9 @@ import com.orilore.service.DeptService;
 public class DeptTest extends BaseTest{
 	@Resource
 	private DeptService service;
-	
+	/**
+	 * ≤‚ ‘≤È—Ø∑Ω∑®
+	 */
 	@Test
 	public void testQuery() {
 		this.service.findAll();
